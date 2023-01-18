@@ -1,3 +1,2 @@
 # RR-Former&RRS-Former
-Initial commit
-RRS
+RRS test
