@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-from configs.model_config.Transformer_config import TransformerConfig
+from configs.model_config.TransformerS_config import TransformerSConfig
 from configs.project_config import ProjectConfig
 
 d_model = -999
