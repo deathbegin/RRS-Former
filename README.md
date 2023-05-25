@@ -1,5 +1,7 @@
 # RR-Former&RRS-Former
-RRS test 
+Code for (Runoff predictions in new-gauged basins using two transformer-based models)[[https://doi.org/10.1016/j.jhydrol.2023.129684]]
+
+Detailed instructions are being written and will be published soon.
 
 ## Reference
 Addor, N., Newman, A. J., Mizukami, N. and Clark, M. P.: The CAMELS data set: catchment attributes and meteorology for large-sample studies, Hydrology and Earth System Sciences, doi:10.5194/hess-2017-169, 2017.
