@@ -1,5 +1,5 @@
 # RR-Former&RRS-Former
-Code for (Runoff predictions in new-gauged basins using two transformer-based models)[https://doi.org/10.1016/j.jhydrol.2023.129684]
+Code for [Runoff predictions in new-gauged basins using two transformer-based models](https://doi.org/10.1016/j.jhydrol.2023.129684)
 
 Detailed instructions are being written and will be published soon.
 
